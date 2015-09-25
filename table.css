@@ -1,0 +1,32 @@
+body {
+font-size: 11px;}
+
+table {
+border: 1px solid black;
+text-align:center;
+font-size: 11px;}
+
+td {
+border: 1px solid black;}
+
+th {
+border: 1px solid black;}
+
+.green {
+background: #aaffaa}
+
+.red {
+background: #ff0000}
+
+.pink {
+background: #ffaaaa}
+
+.yellow {
+background: #ffffaa}
+
+.grey {
+background: #aaaaaa}
+
+tbody {
+overflow: scroll;
+}
